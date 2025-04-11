@@ -5,7 +5,7 @@
 - **Domain**: Retail / Sales Analytics  
 - **Time Period Analyzed**: 2020 to 2023
   
-![Sales-Dashboard 2023-2022](https://github.com/user-attachments/assets/6726e6a6-a43e-4860-8da9-91e5a910ba4f)
+
 
 ## Project Objective
 
