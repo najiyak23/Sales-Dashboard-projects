@@ -30,7 +30,6 @@ Sales and quantity continued to rise in 2023, maintaining the upward trend from 
 - Created a **year-over-year comparison** for each subcategory to evaluate trends in both sales volume and profitability.
 - Clear visualization helps in identifying both **underperforming** and **growth-driving** product areas.
 
----
 
 ### 4. Weekly Sales & Profit Trend (2020–2023 Overview)
 
@@ -38,14 +37,15 @@ Sales and quantity continued to rise in 2023, maintaining the upward trend from 
 - Enabled comparison of **seasonality** and **performance shifts** over time.
 
 
-- The line graph represents **week-by-week trends** in 2023.
+
+  ![Sales   profit ](https://github.com/user-attachments/assets/fe94427c-5147-4f23-83c5-d6cc6c9f22c1)
+
+  - The line graph represents **week-by-week trends** in 2023.
 - Incorporated reference lines for:
   - **Average Weekly Sales:** $14K  
   - **Average Weekly Profit:** $2K
 - Blue lines show **above-average weeks**, while orange lines indicate **below-average performance**.
 - Sales and profit showed a **steady upward trend**, with noticeable **peaks in Q4**, indicating strong year-end performance.
-
-  ![Sales   profit ](https://github.com/user-attachments/assets/fe94427c-5147-4f23-83c5-d6cc6c9f22c1)
 
 ###  Interactive Tableau Dashboard  
   [View Dashboard on Tableau Public](https://public.tableau.com/shared/NYHTWH9DS?:display_count=n&:origin=viz_share_link)
