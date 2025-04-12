@@ -21,21 +21,6 @@ To build a comprehensive dashboard that enables stakeholders to monitor sales pe
   ![KPI Cards](https://github.com/user-attachments/assets/84c332ba-888e-42b8-8b1f-9f59a37bf6f1)
 
 
-**Total Sales**  
-- $733K in 2023 — a 20.4% increase over 2022  
-- Lowest Sales Month: February  
-- Highest Sales Month: November  
-
-**Total Profit**  
-- $93K in 2023 — a 14.2% improvement compared to 2022  
-- Lowest Profit Month: March  
-- Highest Profit Month: April  
-
-**Total Quantity Sold**  
-- 12K units in 2023 — a 26.8% increase from 2022  
-- Lowest Quantity Month: February  
-- Highest Quantity Month: November  
-
 **Summary Insight**  
 Sales and quantity continued to rise in 2023, maintaining the upward trend from 2022. Profit growth remained positive, though at a slightly slower pace. November emerged as the peak month for both sales and quantity.
 
@@ -43,13 +28,6 @@ Sales and quantity continued to rise in 2023, maintaining the upward trend from 
 
 - Analyzed **sales and profit performance** across product subcategories from **2020 to 2023**.
 - Created a **year-over-year comparison** for each subcategory to evaluate trends in both sales volume and profitability.
-
-**2023 Highlights (Filtered View):**
-
-- Compared **2023 sales to 2022** using a horizontal bar chart.
-- Visualized **profit vs. loss** per subcategory:
-  - Subcategories like **Tables, Machines, Envelopes, and Fasteners** reported **losses** in 2023.
-  - **Copiers** remained consistently **high-performing and profitable**.
 - Clear visualization helps in identifying both **underperforming** and **growth-driving** product areas.
 
 ---
@@ -59,7 +37,6 @@ Sales and quantity continued to rise in 2023, maintaining the upward trend from 
 - Tracked **weekly sales and profit trends** for the full range of years from **2020 to 2023**.
 - Enabled comparison of **seasonality** and **performance shifts** over time.
 
-**2023 Highlights (Filtered View):**
 
 - The line graph represents **week-by-week trends** in 2023.
 - Incorporated reference lines for:
