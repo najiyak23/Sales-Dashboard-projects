@@ -70,6 +70,7 @@ Sales and quantity continued to rise in 2023, maintaining the upward trend from 
 
   ![Sales   profit ](https://github.com/user-attachments/assets/fe94427c-5147-4f23-83c5-d6cc6c9f22c1)
 
-  ###  Interactive Tableau Dashboard  
-[View Dashboard on Tableau Public]https://public.tableau.com/views/SalesDashboard_17443524860220/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+###  Interactive Tableau Dashboard  
+  [View Dashboard on Tableau Public]https://public.tableau.com/views/SalesDashboard_17443524860220/SalesDashboard?:language=en- 
+  US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
