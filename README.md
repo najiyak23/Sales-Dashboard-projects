@@ -24,14 +24,14 @@ To build a comprehensive dashboard that enables stakeholders to monitor sales pe
 **Summary Insight**  
 Sales and quantity continued to rise in 2023, maintaining the upward trend from 2022. Profit growth remained positive, though at a slightly slower pace. November emerged as the peak month for both sales and quantity.
 
-### 3. Product Subcategory Breakdown (2020–2023 Overview)
+### 2. Product Subcategory Breakdown (2020–2023 Overview)
 
 - Analyzed **sales and profit performance** across product subcategories from **2020 to 2023**.
 - Created a **year-over-year comparison** for each subcategory to evaluate trends in both sales volume and profitability.
 - Clear visualization helps in identifying both **underperforming** and **growth-driving** product areas.
 
 
-### 4. Weekly Sales & Profit Trend (2020–2023 Overview)
+### 3. Weekly Sales & Profit Trend (2020–2023 Overview)
 
 - Tracked **weekly sales and profit trends** for the full range of years from **2020 to 2023**.
 - Enabled comparison of **seasonality** and **performance shifts** over time.
