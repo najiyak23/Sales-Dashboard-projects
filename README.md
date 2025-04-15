@@ -46,5 +46,8 @@ Sales and quantity continued to rise in 2023, maintaining the upward trend from 
 - Blue lines show **above-average weeks**, while orange lines indicate **below-average performance**.
 - Sales and profit showed a **steady upward trend**, with noticeable **peaks in Q4**, indicating strong year-end performance.
 
+## Conclusion
+This dashboard empowers decision-makers to monitor performance trends over time, spot seasonal shifts, and optimize product category focus to drive profitability in future quarters.
+
 ###  Interactive Tableau Dashboard  
   [View Dashboard on Tableau Public](https://public.tableau.com/shared/NYHTWH9DS?:display_count=n&:origin=viz_share_link)
